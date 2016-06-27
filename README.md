@@ -9,4 +9,4 @@ This is a Pebble WatchApp to open/close a garage door with a Particle Photon, a 
 
 ### Version
 
-1.0.2
+1.1
