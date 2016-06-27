@@ -1,5 +1,5 @@
 /**
- * Garagebble v1.0.2
+ * Garagebble v1.1
  *
  * Author: Alberto Roura
  * Website: https://albertoroura.com

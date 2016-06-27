@@ -3,7 +3,7 @@
     "capabilities": [
         ""
     ],
-    "companyName": "albertoroura@gmail.com",
+    "companyName": "Alberto Roura",
     "longName": "Garagebble",
     "projectType": "pebblejs",
     "resources": {
@@ -33,9 +33,12 @@
     },
     "sdkVersion": "3",
     "shortName": "Garagebble",
+    "targetPlatforms": [
+        "basalt"
+    ],
     "uuid": "3946b1df-e7a2-4b86-a214-4287afe650a9",
     "versionCode": 1,
-    "versionLabel": "1.0",
+    "versionLabel": "1.1",
     "watchapp": {
         "hiddenApp": false,
         "watchface": false
